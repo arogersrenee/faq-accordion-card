@@ -93,6 +93,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 ### Useful resources
 
 - [css-tricks](https://css-tricks.com/snippets/css/flip-an-image/) - This helped me flip the arrows. I really liked this pattern and will use it going forward.
+
+- [get first child](https://www.javascripttutorial.net/javascript-dom/javascript-get-child-element/#:~:text=Get%20the%20first%20child%20element,-To%20get%20the&text=First%2C%20select%20the%20%23menu%20element,by%20using%20the%20firstElementChild%20property.)
+
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
